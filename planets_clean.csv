@@ -1,0 +1,62 @@
+,name_planets,climate,population,terrain,terrain_2,terrain_3,terrain_4
+0,Alderaan,temperate,2000000000.0,grasslands,mountains,,
+1,Yavin IV,"temperate, tropical",1000.0,jungle,rainforests,,
+2,Hoth,frozen,1000.0,tundra,ice caves,mountain ranges,
+3,Dagobah,murky,1000.0,swamp,jungles,,
+4,Bespin,temperate,6000000.0,gas giant,,,
+5,Endor,temperate,30000000.0,forests,mountains,lakes,
+6,Naboo,temperate,4500000000.0,grassy hills,swamps,forests,mountains
+7,Coruscant,temperate,1000000000000.0,cityscape,mountains,,
+8,Kamino,temperate,1000000000.0,ocean,,,
+9,Geonosis,"temperate, arid",100000000000.0,rock,desert,mountain,barren
+10,Utapau,"temperate, arid, windy",95000000.0,scrublands,savanna,canyons,sinkholes
+11,Mustafar,hot,20000.0,volcanoes,lava rivers,mountains,caves
+12,Kashyyyk,tropical,45000000.0,jungle,forests,lakes,rivers
+13,Polis Massa,artificial temperate ,1000000.0,airless asteroid,,,
+14,Mygeeto,frigid,19000000.0,glaciers,mountains,ice canyons,
+15,Felucia,"hot, humid",8500000.0,fungus forests,,,
+16,Cato Neimoidia,"temperate, moist",10000000.0,mountains,fields,forests,rock arches
+17,Saleucami,hot,1400000000.0,caves,desert,mountains,volcanoes
+18,Stewjon,temperate,1400000000.0,grass,,,
+19,Eriadu,polluted,22000000000.0,cityscape,,,
+20,Corellia,temperate,3000000000.0,plains,urban,hills,forests
+21,Rodia,hot,1300000000.0,jungles,oceans,urban,swamps
+22,Nal Hutta,temperate,7000000000.0,urban,oceans,swamps,bogs
+23,Dantooine,temperate,1000.0,oceans,savannas,mountains,grasslands
+24,Bestine IV,temperate,62000000.0,rocky islands,oceans,,
+25,Ord Mantell,temperate,4000000000.0,plains,seas,mesas,
+26,,,4000000000.0,,,,
+27,Trandosha,arid,42000000.0,mountains,seas,grasslands,deserts
+28,Socorro,arid,300000000.0,deserts,mountains,,
+29,Mon Cala,temperate,27000000000.0,oceans,reefs,islands,
+30,Chandrila,temperate,1200000000.0,plains,forests,,
+31,Sullust,superheated,18500000000.0,mountains,volcanoes,rocky deserts,
+32,Toydaria,temperate,11000000.0,swamps,lakes,,
+33,Malastare,"arid, temperate, tropical",2000000000.0,swamps,deserts,jungles,mountains
+34,Dathomir,temperate,5200.0,forests,deserts,savannas,
+35,Ryloth,"temperate, arid, subartic",1500000000.0,mountains,valleys,deserts,tundra
+36,Aleen Minor,,1500000000.0,,,,
+37,Vulpter,"temperate, artic",421000000.0,urban,barren,,
+38,Troiken,,421000000.0,desert,tundra,rainforests,mountains
+39,Tund,,0.0,barren,ash,,
+40,Haruun Kal,temperate,705300.0,toxic cloudsea,plateaus,volcanoes,
+41,Cerea,temperate,450000000.0,verdant,,,
+42,Glee Anselm,"tropical, temperate",500000000.0,lakes,islands,swamps,seas
+43,Iridonia,,500000000.0,rocky canyons,acid pools,,
+44,Tholoth,,500000000.0,,,,
+45,Iktotch,"arid, rocky, windy",500000000.0,rocky,,,
+46,Quermia,,500000000.0,,,,
+47,Dorin,temperate,500000000.0,,,,
+48,Champala,temperate,3500000000.0,oceans,rainforests,plateaus,
+49,Mirial,,3500000000.0,deserts,,,
+50,Serenno,,3500000000.0,rainforests,rivers,mountains,
+51,Concord Dawn,,3500000000.0,jungles,forests,deserts,
+52,Zolan,,3500000000.0,,,,
+53,Ojom,frigid,500000000.0,oceans,glaciers,,
+54,Skako,temperate,500000000000.0,urban,vines,,
+55,Muunilinst,temperate,5000000000.0,plains,forests,hills,mountains
+56,Shili,temperate,5000000000.0,cities,savannahs,seas,plains
+57,Kalee,"arid, temperate, tropical",4000000000.0,rainforests,cliffs,canyons,seas
+58,Umbara,,4000000000.0,,,,
+59,Tatooine,arid,200000.0,desert,,,
+60,Jakku,,200000.0,deserts,,,
